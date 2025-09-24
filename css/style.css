@@ -22,3 +22,13 @@ h1 {
     color: #fff;
     overflow: auto;
 }
+#navbar a {
+    color: #fff;
+}
+#navbar ul {
+    float: right;
+    list-style: none;
+}
+#navbar ul li {
+    float: left;
+}
